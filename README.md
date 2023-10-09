@@ -65,3 +65,8 @@ LightBnB is a straightforward Airbnb-inspired project designed for learning SQL.
 - The `routes` directory contains router files responsible for handling HTTP requests to paths like `/users/something` or `/api/something`.
 - The `styles` directory contains all Sass files.
 - `server.js` serves as the application's entry point and connects the routes to the database.
+
+## Author
+Taylor Maine
+github: moogleKupo
+Contributor: lighthouse-labs (github)
