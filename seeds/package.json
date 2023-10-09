@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node LightBnB_WebApp/server.js"
+  },
+  "dependencies": {
+    "pg": "^8.11.3"
+  }
+}
