@@ -1,6 +1,6 @@
 # LightBnB
 
-LightBnB is a straightforward Airbnb-inspired project designed for learning SQL. It combines JavaScript with SQL queries to present available property listings and essential property details like the number of bedrooms and average ratings. Users can log in or create new accounts, view their own property listings and reservations, and create new property listings. The application also includes a search feature to filter through all available properties.
+LightBnB is an Airbnb-inspired project designed for learning SQL. It combines JavaScript with SQL queries to present available property listings and essential property details like the number of bedrooms and average ratings. Users can log in or create new accounts, view their own property listings and reservations, and create new property listings. The application also includes a search feature to filter through all available properties.
 
 ## How to Use
 
